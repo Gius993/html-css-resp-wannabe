@@ -174,5 +174,19 @@ img {
         font-size: small;
         width: auto;
     }
+   .steps .col,
+   .why-us .col-left,
+   .why-us .col-right,
+   .lessons .col {
+        width: 100%;
+    }
+    .why-us{
+        background-color: black;
+        margin-bottom: 0%;
+        
+    }
+    .steps{
+        margin-bottom: 0px;
+    }
  }
 
